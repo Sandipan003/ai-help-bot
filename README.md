@@ -110,4 +110,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for detai
 
 ---
 
-**AI Help Bot &copy; 2024 | Powered by Knowledge Graph & RAG | Powered by Celestial Runtime** 
+**AI Help Bot &copy; 2024 | Powered by Celestial Runtime** 
