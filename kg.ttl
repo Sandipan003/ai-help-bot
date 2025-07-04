@@ -1,0 +1,14 @@
+@prefix ns1: <http://example.org/faq/> .
+
+ns1:q0 a ns1:Question ;
+    ns1:answer "Click on the 'Forgot Password' link on the login page and follow the instructions." ;
+    ns1:text "How do I reset my password?" .
+
+ns1:q1 a ns1:Question ;
+    ns1:answer "You can contact support by emailing support@example.com or using the contact form on our website." ;
+    ns1:text "How can I contact support?" .
+
+ns1:q2 a ns1:Question ;
+    ns1:answer "Account settings are available under your profile menu in the top right corner after logging in." ;
+    ns1:text "Where can I find my account settings?" .
+

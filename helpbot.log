@@ -1,0 +1,187 @@
+2025-07-04 14:15:44,841 INFO:Scraped 3 FAQ items from local file.
+2025-07-04 14:15:44,847 INFO:Knowledge Graph built with 3 FAQs and saved to kg.ttl.
+2025-07-04 14:15:55,296 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 14:15:55,296 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 14:15:55,297 INFO: * Restarting with stat
+2025-07-04 14:16:01,595 WARNING: * Debugger is active!
+2025-07-04 14:16:01,597 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:16:29,845 INFO:KG answer found for: How do I reset my password?
+2025-07-04 14:16:29,848 INFO:127.0.0.1 - - [04/Jul/2025 14:16:29] "POST / HTTP/1.1" 200 -
+2025-07-04 14:16:53,907 INFO:KG answer found for: How do I reset my password?
+2025-07-04 14:16:53,909 INFO:127.0.0.1 - - [04/Jul/2025 14:16:53] "POST / HTTP/1.1" 200 -
+2025-07-04 14:16:58,949 INFO:KG answer found for: How do I reset my password?
+2025-07-04 14:16:58,951 INFO:127.0.0.1 - - [04/Jul/2025 14:16:58] "POST / HTTP/1.1" 200 -
+2025-07-04 14:17:17,540 INFO:KG answer found for: How can I contact support?
+2025-07-04 14:17:17,542 INFO:127.0.0.1 - - [04/Jul/2025 14:17:17] "POST / HTTP/1.1" 200 -
+2025-07-04 14:19:15,054 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 14:19:15,054 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 14:19:15,069 INFO: * Restarting with stat
+2025-07-04 14:19:21,580 WARNING: * Debugger is active!
+2025-07-04 14:19:21,583 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:19:22,260 INFO:KG answer found for: How can I contact support?
+2025-07-04 14:19:22,263 INFO:127.0.0.1 - - [04/Jul/2025 14:19:22] "POST / HTTP/1.1" 200 -
+2025-07-04 14:19:31,064 INFO:127.0.0.1 - - [04/Jul/2025 14:19:31] "GET /health HTTP/1.1" 200 -
+2025-07-04 14:19:38,051 INFO:KG answer found for: How can I contact support?
+2025-07-04 14:19:38,053 INFO:127.0.0.1 - - [04/Jul/2025 14:19:38] "POST / HTTP/1.1" 200 -
+2025-07-04 14:19:47,086 INFO:No KG answer found for: Hi
+2025-07-04 14:19:49,225 INFO:RAG fallback used for: Hi
+2025-07-04 14:19:49,258 INFO:127.0.0.1 - - [04/Jul/2025 14:19:49] "POST / HTTP/1.1" 200 -
+2025-07-04 14:20:15,243 INFO:No KG answer found for: Hello
+2025-07-04 14:20:16,200 INFO:RAG fallback used for: Hello
+2025-07-04 14:20:16,234 INFO:127.0.0.1 - - [04/Jul/2025 14:20:16] "POST / HTTP/1.1" 200 -
+2025-07-04 14:22:14,171 INFO:No KG answer found for: Hello
+2025-07-04 14:22:15,129 INFO:RAG fallback used for: Hello
+2025-07-04 14:22:15,161 INFO:127.0.0.1 - - [04/Jul/2025 14:22:15] "POST / HTTP/1.1" 200 -
+2025-07-04 14:22:48,762 INFO: * Detected change in 'D:\\Hackaton Project\\ISRO Project\\app.py', reloading
+2025-07-04 14:22:49,377 INFO: * Restarting with stat
+2025-07-04 14:22:55,878 WARNING: * Debugger is active!
+2025-07-04 14:22:55,881 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:23:18,428 INFO: * Detected change in 'D:\\Hackaton Project\\ISRO Project\\app.py', reloading
+2025-07-04 14:23:19,145 INFO: * Restarting with stat
+2025-07-04 14:23:25,495 WARNING: * Debugger is active!
+2025-07-04 14:23:25,498 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:23:26,166 INFO:No KG answer found for: Hello
+2025-07-04 14:23:27,489 INFO:RAG fallback used for: Hello
+2025-07-04 14:23:27,522 INFO:127.0.0.1 - - [04/Jul/2025 14:23:27] "POST / HTTP/1.1" 200 -
+2025-07-04 14:24:06,891 INFO:No KG answer found for: Hello
+2025-07-04 14:24:07,851 INFO:RAG fallback used for: Hello
+2025-07-04 14:24:07,885 INFO:127.0.0.1 - - [04/Jul/2025 14:24:07] "POST / HTTP/1.1" 200 -
+2025-07-04 14:24:14,870 INFO:127.0.0.1 - - [04/Jul/2025 14:24:14] "GET /health HTTP/1.1" 200 -
+2025-07-04 14:29:08,275 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 14:29:08,276 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 14:29:08,277 INFO: * Restarting with stat
+2025-07-04 14:29:14,971 WARNING: * Debugger is active!
+2025-07-04 14:29:14,974 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:29:15,652 INFO:No KG answer found for: Hello
+2025-07-04 14:29:16,930 INFO:RAG fallback used for: Hello
+2025-07-04 14:29:16,964 INFO:127.0.0.1 - - [04/Jul/2025 14:29:16] "POST / HTTP/1.1" 200 -
+2025-07-04 14:29:50,915 INFO:No KG answer found for: Hello
+2025-07-04 14:29:52,871 INFO:RAG fallback used for: Hello
+2025-07-04 14:29:52,902 INFO:127.0.0.1 - - [04/Jul/2025 14:29:52] "POST / HTTP/1.1" 200 -
+2025-07-04 14:45:57,030 INFO:No KG answer found for: Hello
+2025-07-04 14:45:59,244 INFO:RAG fallback used for: Hello
+2025-07-04 14:45:59,275 INFO:127.0.0.1 - - [04/Jul/2025 14:45:59] "POST / HTTP/1.1" 200 -
+2025-07-04 14:49:39,765 INFO: * Detected change in 'D:\\Hackaton Project\\ISRO Project\\chatbot.py', reloading
+2025-07-04 14:49:40,513 INFO: * Restarting with stat
+2025-07-04 14:50:34,295 INFO:Use pytorch device_name: cpu
+2025-07-04 14:50:34,295 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 14:50:38,856 WARNING:Xet Storage is enabled for this repo, but the 'hf_xet' package is not installed. Falling back to regular HTTP download. For better performance, install the package with: `pip install huggingface_hub[hf_xet]` or `pip install hf_xet`
+2025-07-04 14:51:09,037 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 14:51:09,037 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 14:51:09,039 INFO: * Restarting with stat
+2025-07-04 14:51:15,461 INFO:Use pytorch device_name: cpu
+2025-07-04 14:51:15,461 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 14:51:20,611 WARNING: * Debugger is active!
+2025-07-04 14:51:20,614 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:51:21,530 INFO:No KG answer found for: Hello
+2025-07-04 14:51:23,478 INFO:RAG fallback used for: Hello
+2025-07-04 14:51:23,512 INFO:127.0.0.1 - - [04/Jul/2025 14:51:23] "POST / HTTP/1.1" 200 -
+2025-07-04 14:51:50,868 INFO:No KG answer found for: Hello
+2025-07-04 14:51:52,264 INFO:RAG fallback used for: Hello
+2025-07-04 14:51:52,294 INFO:127.0.0.1 - - [04/Jul/2025 14:51:52] "POST / HTTP/1.1" 200 -
+2025-07-04 14:51:54,812 INFO:No KG answer found for: Hello
+2025-07-04 14:51:56,290 INFO:RAG fallback used for: Hello
+2025-07-04 14:51:56,322 INFO:127.0.0.1 - - [04/Jul/2025 14:51:56] "POST / HTTP/1.1" 200 -
+2025-07-04 14:54:44,050 INFO: * Detected change in 'D:\\Hackaton Project\\ISRO Project\\rag_model.py', reloading
+2025-07-04 14:54:44,737 INFO: * Restarting with stat
+2025-07-04 14:54:51,706 INFO:Use pytorch device_name: cpu
+2025-07-04 14:54:51,706 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 14:54:56,020 WARNING: * Debugger is active!
+2025-07-04 14:54:56,023 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:55:01,498 INFO:No KG answer found for: Hello
+2025-07-04 14:55:01,503 INFO:127.0.0.1 - - [04/Jul/2025 14:55:01] "POST / HTTP/1.1" 200 -
+2025-07-04 14:55:03,381 INFO:No KG answer found for: Hello
+2025-07-04 14:55:03,382 INFO:127.0.0.1 - - [04/Jul/2025 14:55:03] "POST / HTTP/1.1" 200 -
+2025-07-04 14:55:09,886 INFO:No KG answer found for: Hi
+2025-07-04 14:55:09,887 INFO:127.0.0.1 - - [04/Jul/2025 14:55:09] "POST / HTTP/1.1" 200 -
+2025-07-04 14:55:21,926 INFO:No KG answer found for: How are you ?
+2025-07-04 14:55:21,926 INFO:127.0.0.1 - - [04/Jul/2025 14:55:21] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:00,807 INFO:Use pytorch device_name: cpu
+2025-07-04 14:59:00,807 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 14:59:05,385 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 14:59:05,386 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 14:59:05,387 INFO: * Restarting with stat
+2025-07-04 14:59:11,495 INFO:Use pytorch device_name: cpu
+2025-07-04 14:59:11,496 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 14:59:17,596 WARNING: * Debugger is active!
+2025-07-04 14:59:17,598 INFO: * Debugger PIN: 512-921-844
+2025-07-04 14:59:18,436 INFO:No KG answer found for: How are you ?
+2025-07-04 14:59:18,441 INFO:127.0.0.1 - - [04/Jul/2025 14:59:18] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:32,565 INFO:No KG answer found for: How are you ?
+2025-07-04 14:59:32,566 INFO:127.0.0.1 - - [04/Jul/2025 14:59:32] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:35,698 INFO:No KG answer found for: How are you ?
+2025-07-04 14:59:35,698 INFO:127.0.0.1 - - [04/Jul/2025 14:59:35] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:37,810 INFO:No KG answer found for: How are you ?
+2025-07-04 14:59:37,810 INFO:127.0.0.1 - - [04/Jul/2025 14:59:37] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:40,529 INFO:No KG answer found for: How are you ?
+2025-07-04 14:59:40,529 INFO:127.0.0.1 - - [04/Jul/2025 14:59:40] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:52,085 INFO:No KG answer found for: Who are you
+2025-07-04 14:59:52,086 INFO:127.0.0.1 - - [04/Jul/2025 14:59:52] "POST / HTTP/1.1" 200 -
+2025-07-04 14:59:58,381 INFO:No KG answer found for: Hi
+2025-07-04 14:59:58,381 INFO:127.0.0.1 - - [04/Jul/2025 14:59:58] "POST / HTTP/1.1" 200 -
+2025-07-04 15:00:06,468 INFO:No KG answer found for: Who are you
+2025-07-04 15:00:06,468 INFO:127.0.0.1 - - [04/Jul/2025 15:00:06] "POST / HTTP/1.1" 200 -
+2025-07-04 15:00:18,599 INFO:No KG answer found for: Your creator name
+2025-07-04 15:00:18,599 INFO:127.0.0.1 - - [04/Jul/2025 15:00:18] "POST / HTTP/1.1" 200 -
+2025-07-04 15:00:21,579 INFO:No KG answer found for: Your creator name
+2025-07-04 15:00:21,579 INFO:127.0.0.1 - - [04/Jul/2025 15:00:21] "POST / HTTP/1.1" 200 -
+2025-07-04 15:01:39,493 INFO:No KG answer found for: Your creator name
+2025-07-04 15:01:39,496 INFO:127.0.0.1 - - [04/Jul/2025 15:01:39] "POST / HTTP/1.1" 200 -
+2025-07-04 15:01:56,145 INFO:No KG answer found for: Your creator name
+2025-07-04 15:01:56,148 INFO:127.0.0.1 - - [04/Jul/2025 15:01:56] "POST / HTTP/1.1" 200 -
+2025-07-04 15:03:31,205 INFO:No KG answer found for: Hi
+2025-07-04 15:03:31,206 INFO:127.0.0.1 - - [04/Jul/2025 15:03:31] "POST / HTTP/1.1" 200 -
+2025-07-04 15:04:33,820 INFO:No KG answer found for: Hi
+2025-07-04 15:04:33,823 INFO:127.0.0.1 - - [04/Jul/2025 15:04:33] "POST / HTTP/1.1" 200 -
+2025-07-04 15:04:37,167 INFO:No KG answer found for: Hi
+2025-07-04 15:04:37,168 INFO:127.0.0.1 - - [04/Jul/2025 15:04:37] "POST / HTTP/1.1" 200 -
+2025-07-04 15:04:43,493 INFO:No KG answer found for: Hello
+2025-07-04 15:04:43,494 INFO:127.0.0.1 - - [04/Jul/2025 15:04:43] "POST / HTTP/1.1" 200 -
+2025-07-04 15:05:31,896 INFO:No KG answer found for: Hello
+2025-07-04 15:05:31,899 INFO:127.0.0.1 - - [04/Jul/2025 15:05:31] "POST / HTTP/1.1" 200 -
+2025-07-04 15:05:38,907 INFO:No KG answer found for: Hi
+2025-07-04 15:05:38,907 INFO:127.0.0.1 - - [04/Jul/2025 15:05:38] "POST / HTTP/1.1" 200 -
+2025-07-04 15:07:18,642 INFO:Use pytorch device_name: cpu
+2025-07-04 15:07:18,642 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 15:07:24,259 INFO:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-07-04 15:07:24,259 INFO:[33mPress CTRL+C to quit[0m
+2025-07-04 15:07:24,260 INFO: * Restarting with stat
+2025-07-04 15:07:30,795 INFO:Use pytorch device_name: cpu
+2025-07-04 15:07:30,795 INFO:Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-04 15:07:35,930 WARNING: * Debugger is active!
+2025-07-04 15:07:35,933 INFO: * Debugger PIN: 512-921-844
+2025-07-04 15:07:36,780 INFO:No KG answer found for: Hi
+2025-07-04 15:07:36,788 INFO:127.0.0.1 - - [04/Jul/2025 15:07:36] "POST / HTTP/1.1" 200 -
+2025-07-04 15:07:51,527 INFO:No KG answer found for: How
+2025-07-04 15:07:51,528 INFO:127.0.0.1 - - [04/Jul/2025 15:07:51] "POST / HTTP/1.1" 200 -
+2025-07-04 15:08:09,866 INFO:No KG answer found for: Hello
+2025-07-04 15:08:09,867 INFO:127.0.0.1 - - [04/Jul/2025 15:08:09] "POST / HTTP/1.1" 200 -
+2025-07-04 15:08:39,864 INFO:No KG answer found for: Hello
+2025-07-04 15:08:39,865 INFO:127.0.0.1 - - [04/Jul/2025 15:08:39] "POST / HTTP/1.1" 200 -
+2025-07-04 15:08:42,520 INFO:No KG answer found for: Hello
+2025-07-04 15:08:42,521 INFO:127.0.0.1 - - [04/Jul/2025 15:08:42] "POST / HTTP/1.1" 200 -
+2025-07-04 15:08:48,039 INFO:No KG answer found for: Hi
+2025-07-04 15:08:48,039 INFO:127.0.0.1 - - [04/Jul/2025 15:08:48] "POST / HTTP/1.1" 200 -
+2025-07-04 15:08:52,700 INFO:127.0.0.1 - - [04/Jul/2025 15:08:52] "GET / HTTP/1.1" 200 -
+2025-07-04 15:09:00,763 INFO:No KG answer found for: Hi
+2025-07-04 15:09:00,763 INFO:127.0.0.1 - - [04/Jul/2025 15:09:00] "POST / HTTP/1.1" 200 -
+2025-07-04 15:09:31,637 INFO:No KG answer found for: Hi
+2025-07-04 15:09:31,637 INFO:127.0.0.1 - - [04/Jul/2025 15:09:31] "POST / HTTP/1.1" 200 -
+2025-07-04 15:09:34,647 INFO:127.0.0.1 - - [04/Jul/2025 15:09:34] "GET / HTTP/1.1" 200 -
+2025-07-04 15:10:05,922 INFO:No KG answer found for: Hi
+2025-07-04 15:10:05,923 INFO:127.0.0.1 - - [04/Jul/2025 15:10:05] "POST / HTTP/1.1" 200 -
+2025-07-04 15:10:27,757 INFO:KG answer found for: How do i reset password  (fuzzy/synonym)
+2025-07-04 15:10:27,757 INFO:127.0.0.1 - - [04/Jul/2025 15:10:27] "POST / HTTP/1.1" 200 -
+2025-07-04 15:10:29,995 INFO:KG answer found for: How do i reset password  (fuzzy/synonym)
+2025-07-04 15:10:29,995 INFO:127.0.0.1 - - [04/Jul/2025 15:10:29] "POST / HTTP/1.1" 200 -
+2025-07-04 15:11:11,751 INFO:127.0.0.1 - - [04/Jul/2025 15:11:11] "GET / HTTP/1.1" 200 -
+2025-07-04 15:11:32,237 INFO:No KG answer found for: Hi
+2025-07-04 15:11:32,237 INFO:127.0.0.1 - - [04/Jul/2025 15:11:32] "POST / HTTP/1.1" 200 -
+2025-07-04 15:11:44,557 INFO:No KG answer found for: How are You ?
+2025-07-04 15:11:44,557 INFO:127.0.0.1 - - [04/Jul/2025 15:11:44] "POST / HTTP/1.1" 200 -

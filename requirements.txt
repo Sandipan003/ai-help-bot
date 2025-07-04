@@ -1,0 +1,10 @@
+flask
+beautifulsoup4
+requests
+rdflib
+haystack
+transformers
+torch
+scikit-learn
+sentence-transformers
+numpy 

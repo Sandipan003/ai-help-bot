@@ -1,0 +1,14 @@
+[
+  {
+    "question": "How do I reset my password?",
+    "answer": "Click on the 'Forgot Password' link on the login page and follow the instructions."
+  },
+  {
+    "question": "How can I contact support?",
+    "answer": "You can contact support by emailing support@example.com or using the contact form on our website."
+  },
+  {
+    "question": "Where can I find my account settings?",
+    "answer": "Account settings are available under your profile menu in the top right corner after logging in."
+  }
+]
